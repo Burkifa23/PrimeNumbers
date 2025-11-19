@@ -23,9 +23,3 @@ def is_prime(n):
         i += 6
         
     return True
-
-# Example Usage:
-print(is_prime(5))  # True
-print(is_prime(6))  # False
-print(is_prime(13)) # True
-print(is_prime(1))  # False
